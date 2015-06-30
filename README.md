@@ -1,7 +1,7 @@
 ---
-tags: cssi, basic html
+tags: cssi, basic python
 level: 1
-languages: html
+languages: python
 ---
 #Intro to Python
 
