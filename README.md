@@ -104,9 +104,11 @@ A few things to note here:
 + You need to be in the same directory as the python script
 + Python scripts are lines of code executed from top to bottom
 
-
 #Conclusion
 Think-Pair-Share
 Take a moment on your own to **think** about situations where it would make sense to use a python script vs. the python interpreter.
 
 **pair** with your partner and come up with reasons where you might want to use a python script, and reasons where you might want to use the python interpreter . Make sure you can **share** your reasons in each scenario.
+
+#Resources
+Here is some <a href="http://anandology.com/python-practice-book/getting-started.html">documentation</a> on the Python interpreter 
