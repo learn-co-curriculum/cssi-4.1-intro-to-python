@@ -17,9 +17,9 @@ Python is a scripting language - it is used to perform tasks. Those tasks might 
 
 #Python Interpreter or Python Script
 
-When we want to test things out or quickly do a calculation, we can use the **python interpreter.** We can start it from the command line, and just like the javascript console, it evaluates statements and prints the return value back to us immediately.
+**python interpreter**-We start it from the command line and it is most useful when we want to test things out or quickly do a calculation. Just like the javascript console, it evaluates statements and prints the return value back to us immediately.
 
-**Python scripts**  are text files saved with a .py extension, and run from the command line. Scripts are full-fledged programs - we can save them, change them, share them, and reuse them. We'll use them to write much more complex code than we could in the interpreter.
+**Python scripts**- are text files saved with a .py extension, and run from the command line. Scripts are full programs - we can save them, change them, share them, and reuse them. We'll use them to write much more complex code than we could in the interpreter.
 
 #Python Interpreter
 Open your terminal and type
