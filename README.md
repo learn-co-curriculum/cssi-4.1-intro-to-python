@@ -17,16 +17,16 @@ Python is a scripting language - it is used to perform tasks. Those tasks might 
 
 #Python Interpreter or Python Script
 
-**python interpreter**-We start it from the command line and it is most useful when we want to test things out or quickly do a calculation. Just like the javascript console, it evaluates statements and prints the return value back to us immediately.
+**Python interpreter**-We start it from the command line and it is most useful when we want to test things out or quickly do a calculation. Just like the javascript console, it evaluates statements and prints the return value back to us immediately.
 
 **Python scripts**- are text files saved with a .py extension, and run from the command line. Scripts are full programs - we can save them, change them, share them, and reuse them. We'll use them to write much more complex code than we could in the interpreter.
 
 #Python Interpreter
-Open your terminal and type
+Open your terminal and type...
 ```
 $ python
 ```
-You'll see something like
+You'll see something like...
 ```
 Python 2.5.1 (r251:54863, Jun 17 2009, 20:37:34)
 [GCC 4.0.1 (Apple Inc. build 5465)] on darwin
@@ -39,7 +39,6 @@ Let's try some things out
 ```
 >>> print 'hello world'
 hello world
->>>
 ```
 print is python's equivalent of console.log in javascript. It lets us print a string out. What happens if we just type the string?
 
