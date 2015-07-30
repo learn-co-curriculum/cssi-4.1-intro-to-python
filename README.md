@@ -1,8 +1,4 @@
----
-tags: cssi, basic python
-level: 1
-languages: python
----
+
 #Intro to Python
 
 #Objectives:
