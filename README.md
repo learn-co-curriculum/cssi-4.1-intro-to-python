@@ -20,4 +20,4 @@ Python is a scripting language - it is used to perform tasks. Those tasks might 
 #Conclusion
 Here are some python resources <a href="http://anandology.com/python-practice-book/getting-started.html">documentation</a> on the Python interpreter
 
-<a href='https://learn.co/lessons/cssi-4.1-intro-to-python' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-4.1-intro-to-python' title='Intro to Python'>Intro to Python</a> on Learn.co and start learning to code for free.</p>
